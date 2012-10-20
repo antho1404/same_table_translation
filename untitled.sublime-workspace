@@ -1,0 +1,2126 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poi",
+				"pointsToRemove"
+			],
+			[
+				"to",
+				"to_date"
+			],
+			[
+				"da",
+				"DATABASES"
+			],
+			[
+				"OPT",
+				"OPTARG"
+			],
+			[
+				"Di",
+				"Digup"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"int",
+				"icon-star"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"dig",
+				"digup"
+			],
+			[
+				"arel",
+				"arel_table"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"skil",
+				"skill_answer"
+			],
+			[
+				"new",
+				"new_object"
+			],
+			[
+				"ob",
+				"object_id"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"web",
+				"webnoser"
+			],
+			[
+				"di",
+				"DigUp"
+			],
+			[
+				"comme",
+				"comments"
+			],
+			[
+				"sor",
+				"sortable"
+			],
+			[
+				"adm",
+				"admin_user_path"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"digu",
+				"digup"
+			],
+			[
+				"evalua",
+				"evaluation"
+			],
+			[
+				"Ac",
+				"ActiveRecord"
+			],
+			[
+				"prop",
+				"proposition_id"
+			],
+			[
+				"eva",
+				"evaluation_id"
+			],
+			[
+				"btn",
+				"btn"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pre",
+				"prev_elems"
+			],
+			[
+				"pr",
+				"prev_elems"
+			],
+			[
+				"sw",
+				"switch_star"
+			],
+			[
+				"ic",
+				"icon-star-empty"
+			],
+			[
+				"Prop",
+				"Proposition"
+			],
+			[
+				"propo",
+				"proposition"
+			],
+			[
+				"Sél",
+				"sélectionner"
+			],
+			[
+				"po",
+				"proposition"
+			],
+			[
+				"simpl",
+				"simple_form_for"
+			],
+			[
+				"Propos",
+				"proposition"
+			],
+			[
+				"poin",
+				"points_to_remove"
+			],
+			[
+				"bt",
+				"btn-mini"
+			],
+			[
+				"upda",
+				"update_attribute"
+			],
+			[
+				"attr",
+				"attr_accessible"
+			],
+			[
+				"sec",
+				"selected_digup"
+			],
+			[
+				"sele",
+				"selected_digup"
+			],
+			[
+				"DI",
+				"Digup"
+			],
+			[
+				"selec",
+				"selected_digup"
+			],
+			[
+				"sel",
+				"selectedDigup"
+			],
+			[
+				"DIG",
+				"DigUp"
+			],
+			[
+				"que",
+				"question_number"
+			],
+			[
+				"Ski",
+				"SkillQuestion"
+			],
+			[
+				"Skil",
+				"SkillAnswer"
+			],
+			[
+				"curr",
+				"current_topic"
+			],
+			[
+				"can",
+				"cannot"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"pric",
+				"price_limit"
+			],
+			[
+				"Cate",
+				"category_answer_digups"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"object",
+				"object_name"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"ass",
+				"association"
+			],
+			[
+				"type",
+				"type_sing"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"opti",
+				"options"
+			],
+			[
+				"option",
+				"optional"
+			],
+			[
+				"optio",
+				"options"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"answ",
+				"answer"
+			],
+			[
+				"impo",
+				"importe"
+			],
+			[
+				"share",
+				"share_type"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"sha",
+				"share_count"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"the",
+				"themeTbl"
+			],
+			[
+				"them",
+				"theme_id"
+			],
+			[
+				"dum",
+				"var_dump"
+			],
+			[
+				"cat",
+				"categoryTbl"
+			],
+			[
+				"De",
+				"Default_Model_DbTable_User"
+			],
+			[
+				"tr",
+				"try	Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"define",
+				"defined"
+			],
+			[
+				"res",
+				"respond_to"
+			],
+			[
+				"in",
+				"informations"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"fontsize",
+				"font-size	zen:css_properties"
+			],
+			[
+				"be",
+				"before_filter"
+			],
+			[
+				"addre",
+				"addresses"
+			],
+			[
+				"margin",
+				"margin-top	zen:css_properties"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"bac",
+				"background-color	zen:css_properties"
+			],
+			[
+				"back",
+				"background-color	zen:css_properties"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"bord",
+				"border	zen:css_properties"
+			],
+			[
+				"marg",
+				"margin	zen:css_properties"
+			],
+			[
+				"padd",
+				"padding	zen:css_properties"
+			],
+			[
+				"ame",
+				"amenity"
+			],
+			[
+				"attri",
+				"attribute"
+			],
+			[
+				"amen",
+				"amenity"
+			],
+			[
+				"mar",
+				"margin	zen:css_properties"
+			],
+			[
+				"che",
+				"check_boxes"
+			],
+			[
+				"cont",
+				"control-label"
+			],
+			[
+				"remo",
+				"remove_empty_array_from_hash"
+			],
+			[
+				"acc",
+				"acceptable_options"
+			],
+			[
+				"inpu",
+				"input_upload_class"
+			],
+			[
+				"coverflow",
+				"coverflow_id"
+			],
+			[
+				"data",
+				"data-index"
+			],
+			[
+				"left",
+				"left-side"
+			],
+			[
+				"lef",
+				"left-side"
+			],
+			[
+				"zi",
+				"zip_code"
+			],
+			[
+				"lat",
+				"latLng"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"geo",
+				"geocodeAddress"
+			],
+			[
+				"city",
+				"city_zip"
+			],
+			[
+				"address",
+				"address"
+			],
+			[
+				"padding",
+				"padding-top	zen:css_properties"
+			],
+			[
+				"backl",
+				"background-color	zen:css_properties"
+			],
+			[
+				"z",
+				"z-index: ${1001};"
+			],
+			[
+				"textdecoration",
+				"text-decoration	zen:css_properties"
+			],
+			[
+				"disp",
+				"displayQuizz"
+			],
+			[
+				"border",
+				"border-bottom	zen:css_properties"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "same_table_translation.gemspec",
+			"settings":
+			{
+				"buffer_size": 953,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/same_table_translation.rb",
+			"settings":
+			{
+				"buffer_size": 1135,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rails",
+				"Simple Rails Navigator: List javascript files"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal	",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"dig",
+				"Snippet: Dir.glob(\"..\") { |file| .. }"
+			],
+			[
+				"TODO",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ssra",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"com",
+				"Git: Quick Commit"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"sssa",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssrail",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"ssrails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Dif",
+				"Git: Diff All"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"	d",
+				"Git: Diff All"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjsr",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"sssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"w",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"down",
+				"Snippet: downto(0) { |n| .. }"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"sshaml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ssrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"sslo",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"ssr",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssc",
+				"Set Syntax: CSS"
+			],
+			[
+				"sste",
+				"Set Syntax: TeX"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"ssjscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sshm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"dof",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"DIF",
+				"Git: Diff All"
+			],
+			[
+				"get",
+				"Preferences: Default Global Settings"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"ssha",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"add ",
+				"Git: Add..."
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git",
+				"Git: Diff All"
+			],
+			[
+				"sslate",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ss jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"lo",
+				"Git: Log Current File"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"gimm",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"gitdi",
+				"Git: Diff All"
+			],
+			[
+				"gid",
+				"Git: Diff All"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/antho/prog/same_table_translation/lib/same_table_translation/version.rb",
+		"/home/antho/prog/same_table_translation/.gitignore",
+		"/home/antho/prog/same_table_translation/README.md",
+		"/home/antho/prog/same_table_translation/lib/translatable.rb",
+		"/home/antho/prog/same_table_translation/Gemfile",
+		"/home/antho/prog/same_table_translation/same_table_translation.gemspec",
+		"/home/antho/prog/chat.js/.gitignore",
+		"/home/antho/prog/worms-like/app/assets/javascripts/physicEngine/shapes/circle.js.coffee",
+		"/home/antho/prog/worms-like/app/assets/javascripts/physicEngine/shapes/objectWithCollision.js.coffee",
+		"/home/antho/prog/towerjs.org/app/controllers/applicationController.coffee",
+		"/home/antho/prog/towerjs.org/app/models/post.coffee",
+		"/home/antho/prog/callmenow/app/views/layouts/application.html.haml",
+		"/home/antho/prog/callmenow/app/views/escorts/index.html.haml",
+		"/home/antho/prog/cv/app/views/pages/_contact.html.haml",
+		"/home/antho/prog/cv/app/views/pages/_skills.html.haml",
+		"/home/antho/prog/cv/app/views/pages/_me.html.haml",
+		"/home/antho/prog/cv/app/assets/stylesheets/skill.css.scss",
+		"/home/antho/prog/cv/public/sitemap.xml",
+		"/home/antho/prog/cv/app/views/application/sitemap.xml",
+		"/home/antho/prog/cv/app/controllers/application_controller.rb",
+		"/home/antho/prog/cv/config/routes.rb",
+		"/home/antho/prog/wedigup/db/seeds.rb",
+		"/home/antho/prog/wedigup/app/views/propositions/_show.html.haml",
+		"/home/antho/prog/wedigup/app/views/digups/show.html.haml",
+		"/home/antho/prog/wedigup/app/controllers/skills_controller.rb",
+		"/home/antho/prog/LinuxRubyInstaller/install.sh",
+		"/home/antho/prog/LinuxRubyInstaller/README.md",
+		"/home/antho/prog/LinuxRubyInstaller/databaseInstaller/mongodb.sh",
+		"/home/antho/prog/LinuxRubyInstaller/databaseInstaller/mysql.sh",
+		"/home/antho/prog/LinuxRubyInstaller/databaseInstaller/postgresql.sh",
+		"/home/antho/prog/LinuxRubyInstaller/databaseInstaller/sqlite3.sh",
+		"/home/antho/prog/LinuxRubyInstaller/install",
+		"/home/antho/prog/LinuxRubyInstaller/install_rails.sh",
+		"/home/antho/prog/wedigup/app/models/user.rb",
+		"/home/antho/prog/wedigup/app/models/category.rb",
+		"/var/log/jockey.log",
+		"/home/antho/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/antho/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/antho/.config/sublime-text-2/Packages/CoffeeCompile/CoffeeCompile.sublime-settings",
+		"/home/antho/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/antho/.config/sublime-text-2/Packages/User/CoffeeCompile.sublime-settings",
+		"/home/antho/.config/sublime-text-2/Packages/CoffeeCompile/Keymaps/Default (Linux).sublime-keymap",
+		"/home/antho/.config/sublime-text-2/Packages/Auto Encoding for Ruby/Auto Encoding for Ruby.sublime-settings",
+		"/home/antho/.config/sublime-text-2/Packages/User/Auto Encoding for Ruby.sublime-settings",
+		"/home/antho/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/antho/prog/wedigup/app/admin/digups.rb",
+		"/home/antho/prog/wedigup/app/controllers/digups_controller.rb",
+		"/home/antho/prog/wedigup/config/locales/fr.yml",
+		"/home/antho/prog/wedigup/app/models/digup.rb",
+		"/home/antho/prog/wedigup/Gemfile",
+		"/home/antho/prog/wedigup/app/views/orders/index.html.haml",
+		"/home/antho/prog/wedigup/app/models/commission.rb",
+		"/home/antho/prog/wedigup/app/models/skill.rb",
+		"/home/antho/prog/wedigup/app/models/digup_observer.rb",
+		"/home/antho/prog/wedigup/app/views/digup_mailer/proposition_selected.html.haml",
+		"/home/antho/prog/wedigup/app/models/selected_digup_observer.rb",
+		"/home/antho/prog/wedigup/app/views/digup_mailer/new_digup.html.haml",
+		"/home/antho/prog/wedigup/app/mailers/digup_mailer.rb",
+		"/home/antho/prog/wedigup/app/controllers/application_controller.rb",
+		"/home/antho/prog/wedigup/app/controllers/users_controller.rb",
+		"/home/antho/prog/wedigup/app/controllers/orders_controller.rb",
+		"/home/antho/prog/wedigup/app/views/users/show.html.haml",
+		"/home/antho/Bureau/bla",
+		"/home/antho/prog/cv/Gemfile",
+		"/home/antho/prog/wedigup/app/views/digups/index.html.haml",
+		"/home/antho/prog/wedigup/app/views/layouts/_usermenu.html.erb",
+		"/home/antho/prog/cv/config/environments/production.rb",
+		"/home/antho/prog/wedigup/config/environments/production.rb",
+		"/home/antho/prog/wedigup/app/admin/propositions.rb",
+		"/home/antho/prog/wedigup/config/routes.rb",
+		"/home/antho/prog/wedigup/config/payment.yml",
+		"/home/antho/prog/wedigup/tmp/cache/sass/3b58d094b5403264f006dc24e324880dfa4ee386/_typography.scssc",
+		"/home/antho/prog/wedigup/app/models/comment.rb",
+		"/home/antho/prog/wedigup/app/assets/stylesheets/bootstrap-responsive.css",
+		"/home/antho/prog/wedigup/app/views/layouts/application.html.erb",
+		"/home/antho/prog/wedigup/app/assets/stylesheets/bootstrap.min.css",
+		"/home/antho/prog/wedigup/app/assets/javascripts/bootstrap.min.js",
+		"/home/antho/prog/wedigup/app/assets/javascripts/order.js.coffee",
+		"/home/antho/prog/wedigup/app/views/admin/category_questions/_form.html.haml",
+		"/home/antho/prog/wedigup/app/controllers/propositions_controller.rb",
+		"/home/antho/prog/wedigup/app/admin/dashboards.rb",
+		"/home/antho/prog/wedigup/app/assets/javascripts/application.js.coffee",
+		"/home/antho/prog/wedigup/app/assets/stylesheets/application.css",
+		"/home/antho/prog/wedigup/app/views/admin/skill_questions/_form.html.haml",
+		"/home/antho/prog/wedigup/app/views/application/index.html.haml",
+		"/home/antho/prog/wedigup/app/views/devise/confirmations/new.html.erb",
+		"/home/antho/prog/wedigup/app/views/devise/passwords/edit.html.erb",
+		"/home/antho/prog/wedigup/app/views/devise/passwords/new.html.erb",
+		"/home/antho/prog/wedigup/app/views/devise/registrations/edit.html.erb",
+		"/home/antho/prog/wedigup/app/views/devise/registrations/new.html.erb",
+		"/home/antho/prog/wedigup/app/views/devise/sessions/new.html.erb",
+		"/home/antho/prog/wedigup/app/views/digup_mailer/new_proposition.html.haml",
+		"/home/antho/prog/wedigup/app/views/skills/index.html.haml",
+		"/home/antho/prog/wedigup/config/initializers/devise.rb",
+		"/home/antho/prog/wedigup/config/initializers/numeric_humanize.rb",
+		"/home/antho/prog/wedigup/app/controllers/selected_digups_controller.rb",
+		"/home/antho/prog/wedigup/app/helpers/digups_helper.rb",
+		"/home/antho/prog/wedigup/app/models/ability.rb",
+		"/home/antho/prog/wedigup/app/models/admin_user.rb",
+		"/home/antho/prog/wedigup/app/views/application/contact.html.haml",
+		"/home/antho/prog/wedigup/app/views/application/legal.html.haml",
+		"/home/antho/prog/wedigup/app/views/digup_mailer/comment_mail_to_digup_owner.html.haml",
+		"/home/antho/prog/wedigup/app/views/digup_mailer/comment_mail_to_webnoser.html.haml",
+		"/home/antho/prog/wedigup/app/views/digup_mailer/new_webnoser_mail.html.haml",
+		"/home/antho/prog/wedigup/app/views/selected_digups/index.html.haml",
+		"/home/antho/prog/wedigup/config/locales/devise.fr.yml",
+		"/home/antho/prog/wedigup/config/locales/log/from_en_to_fr.yml",
+		"/home/antho/prog/wedigup/db/migrate/20120914145500_create_comments.rb",
+		"/home/antho/prog/wedigup/test/fixtures/categories.yml",
+		"/home/antho/prog/wedigup/test/fixtures/category_answer_digups.yml",
+		"/home/antho/prog/wedigup/test/fixtures/category_answers.yml",
+		"/home/antho/prog/wedigup/test/fixtures/category_questions.yml",
+		"/home/antho/prog/wedigup/test/fixtures/commissions.yml",
+		"/home/antho/prog/wedigup/test/fixtures/digups.yml",
+		"/home/antho/prog/wedigup/test/fixtures/evaluation_propositions.yml",
+		"/home/antho/prog/wedigup/test/fixtures/links.yml",
+		"/home/antho/prog/wedigup/test/fixtures/orders.yml",
+		"/home/antho/prog/wedigup/test/fixtures/posts.yml",
+		"/home/antho/prog/wedigup/test/fixtures/propositions.yml",
+		"/home/antho/prog/wedigup/test/fixtures/providers.yml",
+		"/home/antho/prog/wedigup/test/fixtures/selected_digups.yml",
+		"/home/antho/prog/wedigup/test/fixtures/skill_answers.yml",
+		"/home/antho/prog/wedigup/test/fixtures/skill_questions.yml",
+		"/home/antho/prog/wedigup/test/fixtures/skills.yml",
+		"/home/antho/prog/wedigup/app/models/selected_digup.rb",
+		"/home/antho/prog/wedigup/app/views/digups/edit.html.haml",
+		"/home/antho/prog/wedigup/app/views/skills/_form.html.haml",
+		"/home/antho/prog/wedigup/app/views/skills/edit.html.haml"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/var/www/application",
+			"<open folders>",
+			"/var/www/wedigup/application",
+			"<open folders>",
+			"/home/antho/quidizz/",
+			"/home/antho/bla/quidizz/",
+			"/home/antho/bla/quidizz/app/controllers",
+			"/home/antho/bla/quidizz/app/controller",
+			"/home/antho/bla/quidizz/",
+			"/home/antho/bla/quidizz/app/assets/javascripts",
+			"/home/antho/bla/quidizz/",
+			"/home/antho/bla/quidizz/app/assets/stylesheets/",
+			"/home/antho/bla/quidizz/",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/app/",
+			"/home/antho/quidizz/app/assets",
+			"/home/antho/quidizz/app/controllers",
+			"/home/antho/quidizz/app/models",
+			"/home/antho/quidizz/app/assets/",
+			"/home/antho/quidizz/app/assets/javascripts/backbone/",
+			"/home/antho/quidizz/app/assets",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/app",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/app/models",
+			"/home/antho/quidizz/app/model",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/app/assets/",
+			"/home/antho/quidizz/app/assets/javascripts/backbone",
+			"/home/antho/quidizz/app/assets/javascript",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/db",
+			"/home/antho/quidizz/app/assets",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/app/assets",
+			"/home/antho/quidizz/app/assets/javascripts/backbone/",
+			"/home/antho/quidizz/app/assets/javascript/backbone/",
+			"/home/antho/quidizz/app/assets/backbone/",
+			"/home/antho/quidizz/app/assets/backbone",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/app",
+			"/home/antho/quidizz/",
+			"/home/antho/quidizz/app/",
+			"/home/antho/quidizz/app/assets/javascripts",
+			"/home/antho/quidizz",
+			"/home/antho/quidizz/app/",
+			"/home/antho/quidizz/app/assets",
+			"/home/antho/quidizz/app/",
+			"/home/antho/quidizz/app/assets/",
+			"/home/antho/quidizz/app/assets/javascripts/backbone"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"translatable",
+			"Translatable",
+			"translatable",
+			"antho",
+			"topic",
+			"maine de compétence ",
+			"fragment",
+			"vous n'avez",
+			"vous n'evez",
+			"new_webnoser_mail",
+			"TODO",
+			"orders_path",
+			"paypal_cert_id",
+			"paypal_secret",
+			"paypal_cert_id",
+			"Commission.price",
+			"price",
+			"purcent",
+			"radius",
+			"-webkit-border-radius.*border-radius:",
+			"-webkit-border-radius",
+			"border-radius",
+			"-webkit-border-radius:.*;-moz-border-radius:.*;border-radius:*;",
+			"-webkit-border-radius:.*;-moz-border-radius:.*;border-radius:[.;]*;",
+			"-webkit-border-radius:.*;-moz-border-radius:.*;border-radius:[.\\;]*;",
+			"-webkit-border-radius:.*;-moz-border-radius:.*;border-radius:.*;",
+			"radius",
+			" +\\n",
+			" \\n",
+			"form",
+			"propositions/show",
+			"proposition/show",
+			"categories",
+			"TODO",
+			"enought_points_for",
+			"span",
+			"price",
+			".fadeIn",
+			"price",
+			".pricehover",
+			"escort",
+			"date",
+			"digup_accessible",
+			"skills",
+			"Quelqu'un a demandé un lien pour changer votre",
+			"SkillQuestion",
+			"is_valid",
+			"Faq",
+			"is_valid",
+			"topic",
+			"category",
+			"Category",
+			"Topic",
+			"phone_fix",
+			"country",
+			"city",
+			"Gagnez des points Wedigup en partageant sur vos réseaux sociaux",
+			"postal_code",
+			"address2",
+			"address1",
+			"user",
+			"Mentions légales",
+			"legal",
+			"comment_digup_path",
+			"note_proposition_path",
+			"note",
+			"celà",
+			"budjet",
+			"voir le produit",
+			"ne peux",
+			"aucune proposition",
+			"skill",
+			"skill_answers",
+			"skill_question",
+			"skill_answers",
+			"skill_question",
+			"dashboard",
+			"ign",
+			"dashboard",
+			"klass",
+			"batch",
+			"can_follow",
+			"only_path",
+			"player",
+			"Comment",
+			"user",
+			"player",
+			"Player",
+			"player",
+			"arel_table",
+			"twitter",
+			"puts",
+			"twitter",
+			"puts",
+			"Authentifié avec succès",
+			"Player",
+			"player",
+			"Player",
+			"player",
+			"@player",
+			"Player",
+			"confirmation",
+			"layouts/note",
+			"Aucun DigUps sélectionnés avec ce statut pour le moment",
+			"propositions/evaluation",
+			"digup",
+			"TODO",
+			"aucuns digup",
+			"WN",
+			"throu",
+			"as: :date",
+			"right",
+			"\n                ",
+			"arel",
+			"todo",
+			"digup_comment_path",
+			"created_at",
+			"otre notation a bien étée prise en compte",
+			"console.log",
+			"puts",
+			"//=",
+			"categorie_id",
+			"wcarousel",
+			"btn-danger",
+			"COMPLETE",
+			"have_full_access",
+			"can_create_proposition",
+			"skill"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SameTableTranslation",
+			"same_table_translation",
+			"",
+			"\\n",
+			"User",
+			"user",
+			"User",
+			"Webnoser",
+			"#=",
+			"have_full_access?(digup)",
+			"\"Aspirateur\"",
+			"\"Home cinéma\"",
+			"\"Lave linge\"",
+			"category: \"Réfrigérateur / Congélateur\"",
+			"category: \"Lave vaisselle\"",
+			"category: \"Télévision\"",
+			"category: \"Rétro projecteur\"",
+			"category: \"Tablette tactile\"",
+			"category: \"Appareil photo numérique\"",
+			"category: \"Chaîne hifi\"",
+			"category: \"Ordinateur\"",
+			"category: \"Imprimante multifonction\"",
+			"category: \"Téléphonie\"",
+			"]",
+			"}",
+			"",
+			" answers: [",
+			"'",
+			"label:",
+			"",
+			"},\n{",
+			":",
+			" category:",
+			"good",
+			"",
+			"},\n{",
+			"elem",
+			"hide",
+			"hide-block",
+			"\n<keybind",
+			"\n<action",
+			"span",
+			"li",
+			"%td= @location.information.",
+			"td",
+			"tr",
+			"t(:",
+			"%li\n  %strong\n  ",
+			"  \n  ",
+			"strong",
+			",",
+			"name_en",
+			"category_en",
+			"clean_hash",
+			":",
+			": ",
+			"",
+			"point",
+			"f",
+			"amenities",
+			":",
+			"add",
+			"_",
+			"'",
+			"/assets/",
+			"{\n/assets/",
+			"{\n",
+			";\n",
+			"\n",
+			"",
+			"/assets/",
+			"",
+			"assets",
+			"assets/",
+			"",
+			"@",
+			":",
+			",",
+			"/",
+			":",
+			"user",
+			"announcement",
+			"",
+			".label",
+			"user",
+			"User",
+			"user",
+			"users",
+			"user",
+			"\"User\"",
+			"\"Escort\"",
+			"\"User\"",
+			"\"users\"",
+			"\"escorts\"",
+			"\"user\"",
+			"\"escort\"",
+			"\"user\"",
+			"\"escort\"",
+			"escort",
+			"rails_root",
+			"to",
+			"from",
+			"unless ",
+			"",
+			",",
+			":",
+			"/",
+			"@options.view",
+			"product",
+			"address",
+			"bold",
+			"",
+			"h5",
+			"  ",
+			"config",
+			"_",
+			"",
+			"<label class=\"pretty\"",
+			"(100 / 3).to_f",
+			"(100 / 6).to_f",
+			":valid",
+			"  ",
+			"keywords_for_question",
+			"150px",
+			"\n\n\n\n\n\n\n\n\n\n\n\n\nf\n\n",
+			"\n\n\n",
+			"\n\n",
+			"\"color: #333; font-size: 18px; font-family: Georgia, 'Times New Roman', Times, serif;\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "same_table_translation.gemspec",
+					"settings":
+					{
+						"buffer_size": 953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 14.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/same_table_translation.rb",
+					"settings":
+					{
+						"buffer_size": 1135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cir",
+				"app/assets/javascripts/physicEngine/shapes/circle.js.coffee"
+			],
+			[
+				"phy",
+				"app/assets/javascripts/physicEngine/physicEngine.js.coffee"
+			],
+			[
+				"object",
+				"app/assets/javascripts/physicEngine/shapes/objectWithCollision.js.coffee"
+			],
+			[
+				"index",
+				"app/views/escorts/index.html.haml"
+			],
+			[
+				"apphtml",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"ski",
+				"app/views/pages/_skills.html.haml"
+			],
+			[
+				"con",
+				"app/views/pages/_contact.html.haml"
+			],
+			[
+				"me",
+				"app/views/pages/_me.html.haml"
+			],
+			[
+				"cont",
+				"app/views/pages/_contact.html.haml"
+			],
+			[
+				"skilcs",
+				"app/assets/stylesheets/skill.css.scss"
+			],
+			[
+				"skil",
+				"app/views/pages/_skills.html.haml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"dig",
+				"app/models/digup.rb"
+			],
+			[
+				"cate",
+				"app/models/category.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"proposh",
+				"app/views/propositions/_show.html.haml"
+			],
+			[
+				"digsh",
+				"app/views/digups/show.html.haml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"admidig",
+				"app/admin/digups.rb"
+			],
+			[
+				"digcon",
+				"app/controllers/digups_controller.rb"
+			],
+			[
+				"fr",
+				"config/locales/fr.yml"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"com",
+				"app/models/commission.rb"
+			],
+			[
+				"digup",
+				"app/models/digup.rb"
+			],
+			[
+				"comm",
+				"app/models/commission.rb"
+			],
+			[
+				"ordersh",
+				"app/views/orders/index.html.haml"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"prorb",
+				"app/admin/propositions.rb"
+			],
+			[
+				"show",
+				"app/views/digups/show.html.haml"
+			],
+			[
+				"menu",
+				"app/views/layouts/_usermenu.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"paye",
+				"config/payment.yml"
+			],
+			[
+				"payp",
+				"tmp/cache/sass/3b58d094b5403264f006dc24e324880dfa4ee386/_typography.scssc"
+			],
+			[
+				"commiss",
+				"app/models/commission.rb"
+			],
+			[
+				"digsho",
+				"app/views/digups/show.html.haml"
+			],
+			[
+				"bootst",
+				"app/assets/javascripts/bootstrap.min.js"
+			],
+			[
+				"apph",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"propocon",
+				"app/controllers/propositions_controller.rb"
+			],
+			[
+				"skilcon",
+				"app/controllers/skills_controller.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"selecteddigcon",
+				"app/controllers/selected_digups_controller.rb"
+			],
+			[
+				"selecd",
+				"app/models/selected_digup.rb"
+			],
+			[
+				"digucon",
+				"app/controllers/digups_controller.rb"
+			],
+			[
+				"skillcon",
+				"app/controllers/skills_controller.rb"
+			],
+			[
+				"skillform",
+				"app/views/skills/_form.html.haml"
+			],
+			[
+				"topi",
+				"app/models/topic.rb"
+			],
+			[
+				"apphe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"propo",
+				"app/models/proposition.rb"
+			],
+			[
+				"skillrb",
+				"app/models/skill.rb"
+			],
+			[
+				"order",
+				"app/models/order.rb"
+			],
+			[
+				"ordercon",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"createadmin",
+				"db/migrate/20120912182336_devise_create_admin_users.rb"
+			],
+			[
+				"ordecs",
+				"app/assets/stylesheets/order.css.scss"
+			],
+			[
+				"ordercss",
+				"app/assets/stylesheets/order.css.scss"
+			],
+			[
+				"offer",
+				"app/models/offer.rb"
+			],
+			[
+				"orderindex",
+				"app/views/orders/index.html.haml"
+			],
+			[
+				"appcs",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"orderinde",
+				"app/views/orders/index.html.haml"
+			],
+			[
+				"abi",
+				"app/models/ability.rb"
+			],
+			[
+				"anal",
+				"app/views/layouts/_analytics.html.erb"
+			],
+			[
+				"categ",
+				"app/admin/categories.rb"
+			],
+			[
+				"commen",
+				"app/models/comment.rb"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"devrb",
+				"config/environments/development.rb"
+			],
+			[
+				"topba",
+				"app/views/layouts/_topbar.html.erb"
+			],
+			[
+				"appht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"selec",
+				"app/controllers/selected_digups_controller.rb"
+			],
+			[
+				"abil",
+				"app/models/ability.rb"
+			],
+			[
+				"skilin",
+				"app/views/skills/index.html.haml"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js.coffee"
+			],
+			[
+				"skilinde",
+				"app/views/skills/index.html.haml"
+			],
+			[
+				"skillqu",
+				"app/models/skill_question.rb"
+			],
+			[
+				"skillques",
+				"app/admin/skill_questions.rb"
+			],
+			[
+				"digma",
+				"app/mailers/digup_mailer.rb"
+			],
+			[
+				"devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"mailer",
+				"app/mailers/digup_mailer.rb"
+			],
+			[
+				"dash",
+				"app/admin/dashboards.rb"
+			],
+			[
+				"faq",
+				"app/models/faq.rb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"top",
+				"app/models/topic.rb"
+			],
+			[
+				"dignew",
+				"app/views/digups/new.html.haml"
+			],
+			[
+				"topic",
+				"app/models/topic.rb"
+			],
+			[
+				"commi",
+				"app/models/commission.rb"
+			],
+			[
+				"mess",
+				"app/views/layouts/_messages.html.erb"
+			],
+			[
+				"digu",
+				"app/models/digup.rb"
+			],
+			[
+				"skilqu",
+				"app/models/skill_question.rb"
+			],
+			[
+				"skillque",
+				"app/models/skill_question.rb"
+			],
+			[
+				"catque",
+				"app/models/category_question.rb"
+			],
+			[
+				"cateque",
+				"app/admin/category_questions.rb"
+			],
+			[
+				"cateans",
+				"app/models/category_answer.rb"
+			],
+			[
+				"catequ",
+				"app/models/category_question.rb"
+			],
+			[
+				"categorq",
+				"app/models/category_question.rb"
+			],
+			[
+				"admiform",
+				"app/views/admin/skill_questions/_form.html.haml"
+			],
+			[
+				"answer",
+				"app/models/skill_answer.rb"
+			],
+			[
+				"apphel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"skillq",
+				"app/models/skill_question.rb"
+			],
+			[
+				"skian",
+				"app/models/skill_answer.rb"
+			],
+			[
+				"ques",
+				"app/models/skill_question.rb"
+			],
+			[
+				"admin",
+				"config/initializers/active_admin.rb"
+			],
+			[
+				"socia",
+				"app/views/layouts/_social.html.erb"
+			],
+			[
+				"commis",
+				"app/models/commission.rb"
+			],
+			[
+				"digob",
+				"app/models/digup_observer.rb"
+			],
+			[
+				"apprb",
+				"config/application.rb"
+			],
+			[
+				"digumail",
+				"app/mailers/digup_mailer.rb"
+			],
+			[
+				"mail",
+				"app/mailers/digup_mailer.rb"
+			],
+			[
+				"comme",
+				"app/models/comment.rb"
+			],
+			[
+				"prop",
+				"app/admin/propositions.rb"
+			],
+			[
+				"appco",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"post",
+				"app/models/post.rb"
+			],
+			[
+				"usersh",
+				"app/views/users/show.html.haml"
+			],
+			[
+				"digupshow",
+				"app/views/digups/show.html.haml"
+			],
+			[
+				"geml",
+				"Gemfile.lock"
+			],
+			[
+				"app",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"om",
+				"app/controllers/users/omniauth_callbacks_controller.rb"
+			],
+			[
+				"sess",
+				"app/views/devise/sessions/new.html.erb"
+			],
+			[
+				"soci",
+				"config/social_networks.yml"
+			],
+			[
+				"session",
+				"app/views/devise/sessions/new.html.erb"
+			],
+			[
+				"link",
+				"app/views/devise/shared/_links.erb"
+			],
+			[
+				"dev",
+				"config/initializers/devise.rb"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"_lin",
+				"app/views/devise/shared/_links.erb"
+			],
+			[
+				"apphelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"prodrb",
+				"config/environments/production.rb"
+			],
+			[
+				"usersho",
+				"app/views/users/show.html.haml"
+			],
+			[
+				"usesho",
+				"app/views/users/show.html.haml"
+			],
+			[
+				"note",
+				"app/views/layouts/_note.html.haml"
+			],
+			[
+				"skillinde",
+				"app/views/skills/index.html.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/antho/prog/wedigup/untitled.sublime-project"
+			],
+			[
+				"quid",
+				"/home/antho/prog/quidizz/untitled.sublime-project"
+			],
+			[
+				" ca",
+				"/home/antho/prog/callmenow/untitled.sublime-project"
+			],
+			[
+				"cv",
+				"/home/antho/prog/cv/untitled.sublime-project"
+			],
+			[
+				"wor",
+				"/home/antho/prog/worms-like/untitled.sublime-project"
+			],
+			[
+				"worm",
+				"/home/antho/prog/worms-like/untitled.sublime-project"
+			],
+			[
+				"wo",
+				"/home/antho/prog/wedigup/untitled.sublime-project"
+			],
+			[
+				"qui",
+				"/home/antho/prog/quidizz/untitled.sublime-project"
+			],
+			[
+				"cal",
+				"/home/antho/prog/callmenow/untitled.sublime-project"
+			],
+			[
+				"call",
+				"/home/antho/prog/callmenow/untitled.sublime-project"
+			],
+			[
+				"howm",
+				"/home/antho/prog/howManyTimeBefore/untitled.sublime-project"
+			],
+			[
+				"callme",
+				"/home/antho/prog/callmenow/untitled.sublime-project"
+			],
+			[
+				"bonj",
+				"/home/antho/prog/bonjourMontpellierParis/untitled.sublime-project"
+			],
+			[
+				"cl",
+				"/home/antho/prog/callmenow/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true
+}
