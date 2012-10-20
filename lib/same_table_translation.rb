@@ -39,4 +39,4 @@ module SameTableTranslation
   end
 end
 
-ActiveRecord::Base.extend Translatable
+ActiveRecord::Base.extend SameTableTranslation
