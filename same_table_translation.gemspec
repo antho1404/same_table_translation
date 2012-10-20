@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = SameTableTranslation::VERSION
   gem.authors       = ["antho1404"]
   gem.email         = ["anthony.estebe@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Translate a simple attribute in all your locales }
+  gem.summary       = %q{This is similar to most of other translation plugin in rails but usefull if you want to translate in few language because we don't need any join like others plugins. }
+  gem.homepage      = "https://github.com/antho1404/translatable"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
