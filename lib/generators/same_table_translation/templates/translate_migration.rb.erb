@@ -1,0 +1,19 @@
+class <%= migration_class_name %> < ActiveRecord::Migration
+  def change
+    I18n.available_locales.each do |locale|
+<% attachment_names.each do |attribute| -%>
+      add_column :<%= table_name %>, [:<%= attribute %>, locale].join("_").to_sym, :string
+<% end -%>
+    end
+
+<% attachment_names.each do |attribute| -%>
+<% klass = table_name.to_s.classify.constantize -%>
+<% if klass.attribute_names.include? attribute.to_s -%>
+    <%= klass %>.all.each do |<%= klass.to_s.singularize.downcase %>|
+      <%= klass.to_s.singularize.downcase %>.update_attribute :<%= [attribute, I18n.default_locale].join("_") %>, <%= klass.to_s.singularize.downcase %>.<%= attribute %>
+    end
+    remove_column :<%= table_name %>, :<%= attribute %>
+<% end -%>
+<% end -%>
+  end
+end
