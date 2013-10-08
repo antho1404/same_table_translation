@@ -5,23 +5,23 @@ module SameTableTranslation
     locales = I18n.available_locales
     attributes.each do |attribute|
       locales.each do |locale|
-        name = "#{attribute.to_s}_#{locale.to_s}"
-        attr_accessible name.to_sym if self.attribute_names.include?(name)
+        begin
+          name = "#{attribute.to_s}_#{locale.to_s}"
+          attr_accessible name.to_sym if self.attribute_names.include?(name)
+        rescue
+        end
       end
     end
 
     attributes.each do |attribute|
-      getter = (attribute.to_s).to_sym
-      setter = ("#{attribute.to_s}=").to_sym
-      
-      send :define_method, getter do
+      define_method attribute.to_s do
         begin
           self.attributes["#{attribute.to_s}_#{I18n.locale.to_s}"]
-        rescue e
+        rescue
         end
       end
 
-      send :define_method, setter do |value|
+      define_method "#{attribute.to_s}=" do |value|
         begin
           self.attributes = { "#{attribute}_#{I18n.locale.to_s}" => value }
         rescue
