@@ -16,18 +16,14 @@ module SameTableTranslation
       Time.now.utc.strftime("%Y%m%d%H%M%S")
     end
     
-    def generate_migration
-      migration_template "translate_migration.rb.erb", "db/migrate/#{migration_file_name}"
+    def copy_migration
+      migration_template "translate_migration.rb.erb", "db/migrate/#{migration_name}.rb"
     end
 
     protected
 
     def migration_name
       "translate_#{attachment_names.join("_")}_to_#{name.underscore.pluralize}"
-    end
-
-    def migration_file_name
-      "#{migration_name}.rb"
     end
 
     def migration_class_name
